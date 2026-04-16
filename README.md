@@ -1,48 +1,67 @@
-<!--
-**Lishuaizhe/Lishuaizhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Zach
 
-Here are some ideas to get you started:
+🚀 Flutter & Android Developer  
+🧠 AI Tools Explorer | Automation Enthusiast  
+📱 Focus on mobile architecture & product engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-# Hi there, I'm Z 👋
+## 🧑‍💻 About Me
 
-- 💻 Full Stack Developer / Gopher / Rustacean (根据你的主攻方向选)
-- 🌍 English & Japanese Learner (Currently improving my multilingual skills)
-- 🇯🇵 日本語を勉強しています。どうぞよろしくお願いします。
+- 🔭 Currently building **mobile apps + AI-driven workflows**
+- ⚙️ Deep into **Flutter / Android / Cross-platform architecture**
+- 🤖 Exploring **AI agents, automation tools (OpenClaw / Codex / Claude)**
+- 📈 Interested in **efficiency systems & developer productivity**
 
+---
 
-2. 状态与目标 (Current Status)
+## 🛠 Tech Stack
 
-用简单的 Bullet Points 描述你现在的状态。
+### 📱 Mobile
+- Flutter / Dart
+- Android (Kotlin / Java)
+- Hybrid Architecture
 
-🔭 I’m currently working on: [项目名称]
+### 🌐 Frontend
+- React (basic)
+- WebView Integration
 
-🌱 I’m currently learning: Rust, Advanced System Design, or English speaking.
+### ⚙️ Backend & Tools
+- Node.js (basic)
+- RESTful API
+- Firebase / Supabase
 
-💬 Ask me about: Go, React, or how to set up a CI/CD pipeline.
+### 🤖 AI & Automation
+- OpenAI / Claude / Codex
+- OpenClaw
+- Prompt Engineering
+- AI Workflow Design
 
+---
 
-3. 技术栈 (Tech Stack)
+## 🔥 Current Focus
 
-不要只写文字，建议使用 Badges 提高可读性。可以使用 Simple Icons 生成。
+- 🚀 Building **AI-powered developer workflows**
+- 📱 Optimizing **Flutter architecture & performance**
+- 🤖 Multi-agent systems & automation
 
-Languages: ![Java](...) ![Go](...) ![TypeScript](...)
+---
 
-Tools: ![Docker](...) ![Kubernetes](...) ![Git](...)
+## 📊 GitHub Stats
 
-4. 社交与联系 (Connect with me)
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-如果你有博客或特定的交流方式：
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-Blog: [你的链接]
+---
 
-Email: [Your Email]
+## 🌍 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- (你可以加 Twitter / LinkedIn)
+
+---
+
+## ⚡ Fun Fact
+
+> I don’t just write code. I build systems that write code.
