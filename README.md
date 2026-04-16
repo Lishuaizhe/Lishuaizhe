@@ -58,7 +58,6 @@
 ## 🌍 Connect With Me
 
 - GitHub: https://github.com/Lishuaizhe
-- (你可以加 Twitter / LinkedIn)
 
 ---
 
