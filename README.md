@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Lishuaizhe/Lishuaizhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Z 👋
+
+- 💻 Full Stack Developer / Gopher / Rustacean (根据你的主攻方向选)
+- 🌍 English & Japanese Learner (Currently improving my multilingual skills)
+- 🇯🇵 日本語を勉強しています。どうぞよろしくお願いします。
