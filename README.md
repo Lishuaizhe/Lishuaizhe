@@ -20,6 +20,7 @@
 ### 📱 Mobile
 - Flutter / Dart
 - Android (Kotlin / Java)
+- iOS（Swift）
 - Hybrid Architecture
 
 ### 🌐 Frontend
