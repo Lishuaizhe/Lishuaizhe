@@ -49,15 +49,15 @@
 
 ## 📊 GitHub Stats
 
-![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lishuaizhe&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lishuaizhe&layout=compact)
 
 ---
 
 ## 🌍 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Lishuaizhe
 - (你可以加 Twitter / LinkedIn)
 
 ---
