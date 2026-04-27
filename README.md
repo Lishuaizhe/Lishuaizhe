@@ -1,17 +1,43 @@
-# Hi there 👋 I'm Zach
+# 👋 Hi, I'm Zach
 
-🚀 Flutter & Android Developer  
-🧠 AI Tools Explorer | Automation Enthusiast  
-📱 Focus on mobile architecture & product engineering  
+🚀 Mobile Engineer (Flutter / Android)  
+🔗 IoT & BLE Specialist  
+⚙️ System Builder | Efficiency Hacker  
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **mobile apps + AI-driven workflows**
-- ⚙️ Deep into **Flutter / Android / Cross-platform architecture**
-- 🤖 Exploring **AI agents, automation tools (OpenClaw / Codex / Claude)**
-- 📈 Interested in **efficiency systems & developer productivity**
+- 🔭 Building **industrial & telematics mobile systems**
+- 📡 Focus on **BLE / IoT / Device communication (TBOX / OTA)**
+- 🏗 Designing **scalable mobile architectures (Flutter + Native)**
+- 🤖 Exploring **AI automation & developer workflows**
+- 🧠 Strong on **problem solving, system design, debugging**
+
+---
+
+## ⚙️ What I Actually Do
+
+### 🔌 BLE / IoT
+- Device scanning / connection / pairing
+- GATT protocol / MTU / packet design
+- OTA upgrade (packet / ACK / CRC)
+- Peripheral simulation for protocol testing
+
+### 📱 Mobile Architecture
+- Flutter (Riverpod + Freezed + Dio + Retrofit)
+- Native Android (Kotlin / BLE / performance tuning)
+- Hybrid architecture (Flutter + Native integration)
+
+### 🗺 Telematics & Map
+- AMap / Google Map integration
+- Vehicle tracking / trajectory / geofencing
+- Real-time data visualization
+
+### ⚡ Performance & Stability
+- BLE issues (GATT 133 / write failure)
+- Android build / Gradle / JDK troubleshooting
+- Large file handling (PDF / OTA / streaming)
 
 ---
 
@@ -20,31 +46,59 @@
 ### 📱 Mobile
 - Flutter / Dart
 - Android (Kotlin / Java)
-- iOS（Swift）
-- Hybrid Architecture
+- iOS (Swift - basic)
 
-### 🌐 Frontend
-- React (basic)
-- WebView Integration
+### 🔗 IoT
+- BLE (flutter_reactive_ble / Nordic BLE)
+- UART / Serial (ttyUSB / ttyS*)
+- Device protocol design
 
-### ⚙️ Backend & Tools
-- Node.js (basic)
-- RESTful API
-- Firebase / Supabase
+### 🧩 Architecture
+- Riverpod / Freezed / Dio / Retrofit
+- Modular design
+- State management & lifecycle control
+
+### 🗺 Maps
+- AMap (高德)
+- Google Maps (global support)
+
+### ⚙️ Backend & Infra (Understanding)
+- Kafka / Redis / MongoDB / MySQL
+- Microservices architecture
+- Telemetry data pipeline
 
 ### 🤖 AI & Automation
 - OpenAI / Claude / Codex
-- OpenClaw
+- OpenClaw (multi-agent workflows)
 - Prompt Engineering
-- AI Workflow Design
+- Dev workflow automation
 
 ---
 
 ## 🔥 Current Focus
 
-- 🚀 Building **AI-powered developer workflows**
-- 📱 Optimizing **Flutter architecture & performance**
-- 🤖 Multi-agent systems & automation
+- 🚀 AI-powered developer workflows
+- 📡 BLE / OTA stability & protocol optimization
+- 🏗 Flutter architecture standardization
+- 🤖 Multi-agent systems (coding / automation)
+
+---
+
+## 🧠 Engineering Style
+
+- Outcome > Theory  
+- Working solution > Perfect solution  
+- System design > Isolated tricks  
+- Automation > Manual work  
+
+---
+
+## 🧪 Current Experiments
+
+- Dual BLE device integration (RGB / IR isolation)
+- OTA upgrade optimization (large files / packet loss recovery)
+- OpenClaw multi-agent workspace (coding / crypto)
+- AI-powered code review & CI automation
 
 ---
 
@@ -56,7 +110,7 @@
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect
 
 - GitHub: https://github.com/Lishuaizhe
 
@@ -64,4 +118,5 @@
 
 ## ⚡ Fun Fact
 
-> I don’t just write code. I build systems that write code.
+> I don’t just write features.  
+> I design systems that talk to devices, move data, and fix themselves.
