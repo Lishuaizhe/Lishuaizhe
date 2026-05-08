@@ -102,14 +102,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lishuaizhe&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lishuaizhe&layout=compact)
-
----
-
 ## 🌍 Connect
 
 - GitHub: https://github.com/Lishuaizhe
